@@ -1,1 +1,1 @@
-# Python-Multiplication-Chalenge
+# Python-Multiplication-Challenge
